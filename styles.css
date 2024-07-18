@@ -28,6 +28,20 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 
+button {
+  font-size: 24px;
+  padding: 15px 30px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: #263855;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #EEEEEE;
+}
+
 img {
   width: 80%;
 }
